@@ -24,3 +24,14 @@
 2024-05-07 12:27:19,746 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ACER\RestAssuredShantanu\ShantanuRestAssuredTests\src\main\resources
 2024-05-07 12:27:19,749 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-05-07 12:27:19,749 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ACER\RestAssuredShantanu\ShantanuRestAssuredTests\src\test\resources
+2024-05-07 14:07:18,244 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-07 14:33:02,494 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-07 14:33:41,712 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CucumberFrameWork:RestAssuredShantanuPractice:0.0.1-SNAPSHOT @ C:\Users\ACER\RestAssuredMukesh\MukeshRestAssuredTests\pom.xml.
+2024-05-07 14:33:43,676 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-07 14:33:43,677 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ACER\RestAssuredMukesh\MukeshRestAssuredTests\src\main\resources
+2024-05-07 14:33:43,686 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-07 14:33:43,687 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ACER\RestAssuredMukesh\MukeshRestAssuredTests\src\test\resources
+2024-05-07 14:33:45,220 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-07 14:33:45,220 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ACER\RestAssuredMukesh\MukeshRestAssuredTests\src\main\resources
+2024-05-07 14:33:45,225 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-07 14:33:45,225 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ACER\RestAssuredMukesh\MukeshRestAssuredTests\src\test\resources
